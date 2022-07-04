@@ -10,7 +10,7 @@ header{
     
     background-size: cover;
     /*  linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.15)), */
-    background-image: url('../images/taj.jpeg');
+    background-image: url('images/taj.jpeg');
     background-position: center;
 } 
 nav{
